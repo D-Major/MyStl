@@ -26,6 +26,7 @@
 - **顺序容器适配器：stack，queue**
 - **关联容器：set，map，multiset，multimap**
 - **无序关联容器：unordered_set，unordered_map，unordered_multiset，unordered_multimap**
+- **容器均支持列表初始化，重载了相关迭代器的bool类型转换运算符以支持用于条件判断**
 - **常用算法** 
 - **常用仿函数** 
 
