@@ -9,8 +9,8 @@
  * 的迭代器就只是那些referring to the deleted node.
  */
 
-#ifndef RBTREE_H_
-#define RBTREE_H_
+#ifndef RB_TREE_H_
+#define RB_TREE_H_
 
 #include "allocator.h"
 
@@ -1095,4 +1095,4 @@ namespace MyStl
 		return true;
 	}
 }//end of MyStl
-#endif // end of RBTREE_H_
+#endif // end of RB_TREE_H_
